@@ -1,0 +1,17 @@
+name,abreviation,isDynamicThroughTime,isPartOfRotation,isPhenologicallyDetailed,isAnnual,startSowingDate,maximumHarvestDate,baseTemperature,isClustered
+Sorghum,Sor,true,true,true,true,91,290,6,true
+Corn,Cor,true,true,true,true,91,283,6,true
+Rapeseed,Rap,true,true,false,true,230,166,0,true
+Sunflower,Sun,true,true,false,true,91,274,0,true
+Temporarypasture,Tem,true,true,false,true,258,217,0,true
+Wheat,Whe,true,true,true,true,293,227,0,true
+WheatVolunteer,Vol,true,true,false,true,228,226,0,false
+Fallow,Fal,false
+Otherculture,Oth,false
+Forest,For,false
+SouthEdge,SEd,false
+NorthEdge,NEd,false
+BuildingRoad,Bui,false
+Water,Wat,false
+Permanentpasture,Per,false
+Hedge,Hed,false

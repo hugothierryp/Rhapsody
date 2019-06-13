@@ -1,0 +1,7 @@
+Sorghum,15,15,Emergence,120,true,3,Boot,936,true,5,Head,972,true,7,Flowering,1285,true,10,Maturity,1960,false,10,Harvestable,1961,false,10
+Corn,15,15,Emergence,120,true,3,Boot,940,true,5,Head,990,true,7,Flowering,1200,true,10,Maturity,1960,false,10,Harvestable,1961,false,10
+Rapeseed,,,,,,,,,,,,,,,,,,,,
+Sunflower,,,,,,,,,,,,,,,,,,,,
+Temporarypasture,,,,,,,,,,,,,,,,,,,,
+Wheat,15,15,Emergence,80,true,3,Boot,855,true,5,Head,935,true,7,Flowering,970,true,10,Maturity,1670,false,10,Harvestable,2670,false,10
+Volunteer,0,0,Emergence,80,true,3,Boot,855,true,5,Head,935,true,7,Flowering,970,true,10,Maturity,1670,false,10,Harvestable,2670,false,10
